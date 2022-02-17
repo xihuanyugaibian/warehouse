@@ -43,11 +43,4 @@ public class PinyinUtils {
         }
         return output;
     }
-
-    public static void main(String[] args) {
-        String s = getPingYin("落亦");
-        System.out.println(s);
-    }
-
-
 }
